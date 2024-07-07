@@ -34,8 +34,6 @@ Ensure you have the following installed:
 git clone https://github.com/yourusername/weather_app.git
 cd weather_app
 
-2. Install dependencies:
-
 flutter pub get
 
 3. Run the build_runner to generate the necessary files:
