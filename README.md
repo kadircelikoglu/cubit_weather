@@ -69,5 +69,3 @@ Acknowledgements
 -    Google Fonts for the beautiful fonts.
 -    Flutter Community for the awesome Flutter framework and packages.
 
-Contact
-If you have any questions or suggestions, feel free to contact me at [kadircelikogluu@gmail.com].
