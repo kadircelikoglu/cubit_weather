@@ -30,8 +30,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/weather_app.git
+
 cd weather_app
 
 flutter pub get
